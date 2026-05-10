@@ -1,0 +1,101 @@
+ID_Artista,Nome_Artista,País_Origem,Género_Principal
+AR001,The Beatles,Reino Unido,Rock
+AR002,Madonna,EUA,Pop
+AR003,Queen,Reino Unido,Rock
+AR004,Michael Jackson,EUA,Pop
+AR005,Elvis Presley,EUA,Rock and Roll
+AR006,Led Zeppelin,Reino Unido,Hard Rock
+AR007,Fado Português,Portugal,Fado
+AR008,Nirvana,EUA,Grunge
+AR009,Bob Dylan,EUA,Folk
+AR010,Adele,Reino Unido,Soul/Pop
+AR011,Taylor Swift,EUA,Pop
+AR012,Drake,Canadá,Hip Hop
+AR013,Beyoncé,EUA,R&B
+AR014,The Rolling Stones,Reino Unido,Rock
+AR015,Fado Clássico,Portugal,Fado
+AR016,Rihanna,Barbados,Pop/R&B
+AR017,Coldplay,Reino Unido,Alternative Rock
+AR018,U2,Irlanda,Rock
+AR019,Pink Floyd,Reino Unido,Progressive Rock
+AR020,AC/DC,Austrália,Hard Rock
+AR021,Metallica,EUA,Heavy Metal
+AR022,Eminem,EUA,Hip Hop
+AR023,Whitney Houston,EUA,Pop/R&B
+AR024,Stevie Wonder,EUA,Soul/R&B
+AR025,Prince,EUA,Pop/Funk
+AR026,Aretha Franklin,EUA,Soul
+AR027,Fado Contemporâneo,Portugal,Fado
+AR028,David Bowie,Reino Unido,Rock
+AR029,Elton John,Reino Unido,Pop Rock
+AR030,Mariah Carey,EUA,Pop/R&B
+AR031,Celine Dion,Canadá,Pop
+AR032,Andrea Bocelli,Itália,Clássica
+AR033,Ed Sheeran,Reino Unido,Pop
+AR034,Lady Gaga,EUA,Pop
+AR035,Kanye West,EUA,Hip Hop
+AR036,Linkin Park,EUA,Nu Metal
+AR037,Red Hot Chili Peppers,EUA,Funk Rock
+AR038,Marisa Monte,Brasil,MPB
+AR039,Manoel de Oliveira,Portugal,Fado
+AR040,Bruno Mars,EUA,Pop/R&B
+AR041,Justin Bieber,Canadá,Pop
+AR042,Ariana Grande,EUA,Pop
+AR043,The Weeknd,Canadá,R&B
+AR044,Dua Lipa,Reino Unido,Pop
+AR045,Billie Eilish,EUA,Pop Alternativo
+AR046,Imagine Dragons,EUA,Alternative Rock
+AR047,Shakira,Colômbia,Pop Latino
+AR048,Daddy Yankee,Porto Rico,Reggaeton
+AR049,Rosalía,Espanha,Flamenco/Pop
+AR050,Amália Rodrigues,Portugal,Fado
+AR051,Amy Winehouse,Reino Unido,Soul/Jazz
+AR052,Jimi Hendrix,EUA,Rock Psicadélico
+AR053,The Doors,EUA,Rock
+AR054,Rolling Stones,Reino Unido,Rock
+AR055,Guns N' Roses,EUA,Hard Rock
+AR056,Iron Maiden,Reino Unido,Heavy Metal
+AR057,Slayer,EUA,Thrash Metal
+AR058,Depeche Mode,Reino Unido,New Wave
+AR059,The Cure,Reino Unido,Gothic Rock
+AR060,Radiohead,Reino Unido,Alternative Rock
+AR061,Jeff Buckley,EUA,Rock
+AR062,Nina Simone,EUA,Jazz/Soul
+AR063,Etta James,EUA,Blues/R&B
+AR064,Frank Sinatra,EUA,Jazz/Pop
+AR065,Louis Armstrong,EUA,Jazz
+AR066,Ella Fitzgerald,EUA,Jazz
+AR067,Miles Davis,EUA,Jazz
+AR068,Ludwig van Beethoven,Alemanha,Clássica
+AR069,Wolfgang Amadeus Mozart,Áustria,Clássica
+AR070,Johann Sebastian Bach,Alemanha,Clássica
+AR071,Clara Schumann,Alemanha,Clássica
+AR072,Chopin,Polónia,Clássica
+AR073,Seu Jorge,Brasil,MPB/Samba
+AR074,Caetano Veloso,Brasil,MPB
+AR075,Gilberto Gil,Brasil,MPB
+AR076,Chico Buarque,Brasil,MPB
+AR077,Xutos & Pontapés,Portugal,Rock
+AR078,GNR,Portugal,Pop Rock
+AR079,Expensive Soul,Portugal,Hip Hop/Soul
+AR080,Capitão Fausto,Portugal,Indie Rock
+AR081,Anitta,Brasil,Pop Latino
+AR082,Maluma,Colômbia,Reggaeton
+AR083,Bad Bunny,Porto Rico,Trap Latino
+AR084,Shinedown,EUA,Hard Rock
+AR085,Foo Fighters,EUA,Alternative Rock
+AR086,Green Day,EUA,Punk Rock
+AR087,The Killers,EUA,Indie Rock
+AR088,Oasis,Reino Unido,Britpop
+AR089,Blur,Reino Unido,Britpop
+AR090,Daft Punk,França,Eletrónica
+AR091,Tiësto,Países Baixos,Trance/EDM
+AR092,Martin Garrix,Países Baixos,EDM
+AR093,Avicii,Suécia,EDM
+AR094,Skrillex,EUA,Dubstep
+AR095,Calvin Harris,Reino Unido,Eletrónica
+AR096,SZA,EUA,R&B
+AR097,Doja Cat,EUA,Pop/R&B
+AR098,Harry Styles,Reino Unido,Pop
+AR099,Sam Smith,Reino Unido,Pop/Soul
+AR100,Vitorino,Portugal,Música Popular
